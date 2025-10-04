@@ -1,2 +1,2 @@
 # comm4190_F25_Product_Task
-working with kaitlyn
+Lindsey Lee & Kaitlyn Hu
