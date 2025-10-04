@@ -1,4 +1,7 @@
-**HarmonyBites: Print. Plate. Perfect.**
+# HarmonyBites
+<img src="logo.png"> 
+
+**Print. Plate. Perfect.** 
 
 ---
 
@@ -16,45 +19,73 @@ Whether you’re tracking macros for your next marathon, managing food sensitivi
 
 ---
 
-### Features
+## 🧩 How It Works
 
-**✓ Macro Matching**
-Precision-calibrated to hit your protein, fat, and carb targets with every meal.
+| Step 1 | Step 2 | Step 3 |
+|--------|--------|--------|
+| <br>**Select your dietary goals** | <br>**Insert nutrient-rich inks** | <br>**Print your custom meal** |
 
-**✓ Smart Profiles**
-Sync your fitness app or dietary data to auto-adjust recipes in real time.
-
-**✓ Modular Food Ink System**
-Easy-swap, nutrient-dense cartridges that support a wide variety of cuisines and needs (vegan, keto, high-protein, gluten-free, etc).
-
-**✓ Touchscreen Interface + Mobile App**
-Control your printer, save favorite meals, and track nutritional intake from anywhere.
-
-**✓ Zero Waste Design**
-Print exact portions with minimal clean-up and compostable capsules.
-
-**✓ Endless Variety**
-From power bowls to breakfast bakes and guilt-free desserts, the recipe library updates monthly with chef- and dietitian-approved options.
+[Pre-Order Now](#)
 
 ---
 
-### Testimonials
+## ✨ Key Benefits
 
-**"It’s like having a personal chef and nutritionist in one. I’ve never eaten so clean and felt so in control of my diet."**
+- **Personalized Nutrition**  
+  Match your dietary goals with customized meal printing.
+
+- **Zero Waste**  
+  Print exact portions with minimal cleanup and compostable materials.
+
+- **Modular Food Inks**  
+  Swap cartridges based on your nutrition style (vegan, keto, high-protein, etc.).
+
+- **Endless Recipes**  
+  Choose from chef- and dietitian-approved meal designs.
+
+---
+
+## 🍽️ Meal Gallery
+
+[Meal 1]
+
+[Meal 2]
+
+[Meal 3]
+
+_(More visuals coming soon.)_
+
+---
+
+## 💬 Testimonials
+
+> **"It’s like having a personal chef and nutritionist in one. I’ve never eaten so clean and felt so in control of my diet."**
 — *Jasmine R., CrossFit Coach*
 
-**"HarmonyBites is a total game-changer. I can finally manage my food allergies without boring meals or stress."**
+> **"HarmonyBites is a total game-changer. I can finally manage my food allergies without boring meals or stress."**
 — *Michael S., Food Allergy Advocate*
 
-**"I thought 3D printing food was sci-fi. Now it’s just my Tuesday dinner."**
+> **"I thought 3D printing food was sci-fi. Now it’s just my Tuesday dinner."**
 — *Luis M., Tech Blogger*
 
 ---
 
-### Start Your Harmony
+## ⚙️ Features
 
-Experience the freedom of customized, clean eating.
+- **Precise Macro Control**  
+  Sync your app and get perfectly portioned, goal-aligned meals.
 
-**Pre-order your HarmonyBites now** and join the movement toward smarter, personalized nutrition.
+- **Mobile App Integration**  
+  Customize meals, track nutrition, and reorder inks from anywhere.
 
-**Print. Plate. Perfect.**
+- **Touchscreen Interface**  
+  Intuitive on-device controls for quick meals on the go.
+
+---
+
+## 🛒 Ready to Try HarmonyBites?
+
+Join the movement toward smarter, cleaner eating.  
+[Pre-Order Yours Now](#) | [Watch a Demo](#)
+
+---
